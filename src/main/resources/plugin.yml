@@ -5,3 +5,7 @@ api-version: 1.13
 authors: [GingeyBook]
 description: Project Solaris Skyblock server sell wands
 website: projectsolaris.net
+commands:
+  hoe:
+    description: Gives hoe
+    usage: /<command>
