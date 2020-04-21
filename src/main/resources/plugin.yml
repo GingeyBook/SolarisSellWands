@@ -1,0 +1,7 @@
+name: SellWands
+version: ${project.version}
+main: net.projectsolaris.sellwands.SellWands
+api-version: 1.13
+authors: [GingeyBook]
+description: Project Solaris Skyblock server sell wands
+website: projectsolaris.net
