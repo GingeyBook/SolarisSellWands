@@ -6,5 +6,5 @@ authors: [GingeyBook]
 description: Project Solaris Skyblock server sell wands
 website: projectsolaris.net
 commands:
-  si give:
+  si:
     description: Gives sell items
